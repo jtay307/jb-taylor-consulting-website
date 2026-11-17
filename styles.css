@@ -44,11 +44,11 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 72px;
+  height: 92px;
 }
 
 .brand-mark {
-  height: 48px;
+  height: 72px;
   width: auto;
   display: block;
 }
@@ -86,7 +86,7 @@ a { text-decoration: none; color: inherit; }
 }
 
 .hero-logo {
-  width: 150px;
+  width: 240px;
   height: auto;
   margin-bottom: 28px;
 }
